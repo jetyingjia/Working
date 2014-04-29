@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SORT", "SORT\SORT.vcxproj", "{07394A44-44AE-4755-9265-42B8106FE0A1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "find_maximum_subarray", "..\find_maximum_subarray\find_maximum_subarray.vcxproj", "{D5E124C3-D7DF-4E53-BC16-4E241A75A89B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BST", "..\BST\BST.vcxproj", "{E6F6A2A6-E1EC-4530-A4C7-F775C9FCC99A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryTree", "..\BinaryTree\BinaryTree.vcxproj", "{72494225-5DD0-4724-AC81-C3712D6DD4E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07394A44-44AE-4755-9265-42B8106FE0A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07394A44-44AE-4755-9265-42B8106FE0A1}.Debug|Win32.Build.0 = Debug|Win32
+		{07394A44-44AE-4755-9265-42B8106FE0A1}.Release|Win32.ActiveCfg = Release|Win32
+		{07394A44-44AE-4755-9265-42B8106FE0A1}.Release|Win32.Build.0 = Release|Win32
+		{D5E124C3-D7DF-4E53-BC16-4E241A75A89B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D5E124C3-D7DF-4E53-BC16-4E241A75A89B}.Debug|Win32.Build.0 = Debug|Win32
+		{D5E124C3-D7DF-4E53-BC16-4E241A75A89B}.Release|Win32.ActiveCfg = Release|Win32
+		{D5E124C3-D7DF-4E53-BC16-4E241A75A89B}.Release|Win32.Build.0 = Release|Win32
+		{E6F6A2A6-E1EC-4530-A4C7-F775C9FCC99A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E6F6A2A6-E1EC-4530-A4C7-F775C9FCC99A}.Debug|Win32.Build.0 = Debug|Win32
+		{E6F6A2A6-E1EC-4530-A4C7-F775C9FCC99A}.Release|Win32.ActiveCfg = Release|Win32
+		{E6F6A2A6-E1EC-4530-A4C7-F775C9FCC99A}.Release|Win32.Build.0 = Release|Win32
+		{72494225-5DD0-4724-AC81-C3712D6DD4E5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{72494225-5DD0-4724-AC81-C3712D6DD4E5}.Debug|Win32.Build.0 = Debug|Win32
+		{72494225-5DD0-4724-AC81-C3712D6DD4E5}.Release|Win32.ActiveCfg = Release|Win32
+		{72494225-5DD0-4724-AC81-C3712D6DD4E5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
